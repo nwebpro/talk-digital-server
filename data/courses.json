@@ -1,0 +1,128 @@
+[
+    {
+        "_id": "63569c69b2d326616637bc0d",
+        "category_id": "01",
+        "image_url": "https://img-b.udemycdn.com/course/240x135/781532_8b4d_6.jpg",
+        "name": "Advanced React and Redux",
+        "price": 84.99,
+        "author": {
+            "name": "Stephen Grider",
+            "last_updated": "Last updated 10/2019",
+            "author_img": "https://img-c.udemycdn.com/user/200_H/28948038_0077_2.jpg"
+        },
+        "rating": "4.3",
+        "short_desc": "Walkthroughs on advanced React v16.6.3 and Redux v4.0.0 - Authentication, Testing, Middlewares, HOC's, and Deployment",
+        "course_overview": [
+            "Build a scaleable API with authentication using Express, Mongo, and Passport",
+            "Learn the differences between cookie-based and token-based authentication",
+            "Figure out what a Higher Order Component and how to use it to write dramatically less code",
+            "Write Redux middleware from scratch to uncover what is happening behind the scenes with Redux"
+        ],
+        "description": "Course includes content specific to React v16.6.3 and Redux v4.0.1! For React v14, start with the section titled 'Testing with React v14'. This is the tutorial you've been looking for to take your React and Redux skills to the next level. Authentication with Express/Mongo?  Yes!  Middleware/Higher Order Components? We got it.  Testing with Mocha/Chai?  It's here! This course wastes no time diving right into interesting topics, and teaches you the core knowledge you need to deeply understand and build React components and structure applications with Redux. Mastering React and Redux can get you a position in web development or help you build that personal project you've been dreaming of. It's a skill that will put you more in demand in the modern web development industry, especially with the release of Redux and ReactNative. I have built the course that I would have wanted to take when I was learning React and Redux.  A course that explains the concepts and how they're implemented in the best order for you to learn and deeply understand them."
+    },
+    {
+        "_id": "6356bc6816ec36e12d9329ef",
+        "category_id": "02",
+        "image_url": "https://img-b.udemycdn.com/course/240x135/8324_fa84_13.jpg",
+        "name": "Javascript for Beginners",
+        "price": 19.99,
+        "author": {
+            "name": "Dollar Design School",
+            "last_updated": "Last updated 4/2016",
+            "author_img": "https://img-b.udemycdn.com/user/200_H/11439_12bd_15.jpg"
+        },
+        "rating": "4.4",
+        "short_desc": "Learn javascript online and supercharge your web design with this Javascript for beginners training course.",
+        "course_overview": [
+            "Extensive, informative and interesting video lecture",
+            "Complete Code demonstrated in lecture",
+            "Lab Exercises",
+            "Lab Solution Sets"
+        ],
+        "description": "Take this Javascript training course and start learning Javascript today. 'As a business guy I have no place in programming.' Ten years ago you could have gotten away with that statement. Today you say that to your colleagues and they scoff at you before they go back to their computers to fix real problems and do real work. If you want to do something useful start by learning Javascript . In these days when the browser is central to all computer use knowing 'the language of the browser' is the most important step. A few years ago Javascript potential was uncertain and many programmers considered it useless. These days however competent programmers have identified Javascript real potential and uses and it has gone from a toy language to the main language of the browser. It has become one of the most useful languages of this era. Every developer needs at least a basic understanding of Javascript. A developer who knows Javascript is the rockstar of the company and is in constant demand by employers. Our online Javascript course will get you started by teaching all the essential aspects of coding in Javascript. So... what's it gonna be? Do you want to supercharge your career and be in constant demand by employers? Do you want to learn how to create dynamic and innovative Javascript documents? Start programming today with our Javascript course for Beginners training and take control of your career."
+    },
+    {
+        "_id": "6356bd40465d6a3135beea33",
+        "category_id": "03",
+        "image_url": "https://img-b.udemycdn.com/course/240x135/461160_8d87_6.jpg",
+        "name": "Node.js for Beginners - Become a Node js Developer + Project",
+        "price": 84.99,
+        "author": {
+            "name": "Edwin Diaz",
+            "last_updated": "Last updated 2/2018",
+            "author_img": "https://img-b.udemycdn.com/user/200_H/6772884_fcfc_2.jpg"
+        },
+        "rating": "4.7",
+        "short_desc": "Build an Amazing CMS system - Using Express + MongoDB + Bootstrap - Handlebars + Authentication + AJAX + Deployment",
+        "course_overview": [
+            "To build Amazing NodeJS applications like the CMS we build here using Express, MongoDB and more",
+            "To deploy Nodejs Apps on the Cloud",
+            "To create Login and Registration system using NodeJS",
+            "To use Mongoose (ODM) - very similar to ORM"
+        ],
+        "description": "I don't know about you,but regular classes bore me, and that is why on this Node.js course we make it fun to learn LOTS of cool things. This course is meant for total beginners in the NodeJs world. On the contrary on why other people teach, I do it to help people succeed in life and also because I love teaching. I feel successful when my students become successful. Our goal is to teach as many people as possible and at the same time having a blast. If you give me your time, I will make this learning experience something you will not forget. This course was created to change lives with all the knowledge included."
+    },
+    {
+        "_id": "6356f11d4f281a4c51cd3a96",
+        "category_id": "02",
+        "image_url": "https://img-b.udemycdn.com/course/240x135/851712_fc61_6.jpg",
+        "name": "The Complete JavaScript Course 2022: From Zero to Expert!",
+        "price": 84.99,
+        "author": {
+            "name": "Jonas Schmedtmann",
+            "last_updated": "Last updated 4/2022",
+            "author_img": "https://img-b.udemycdn.com/user/200_H/7799204_2091_5.jpg"
+        },
+        "rating": "4.7",
+        "short_desc": "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!",
+        "course_overview": [
+            "Become an advanced, confident, and modern JavaScript developer from scratch",
+            "Build 6 beautiful real-world projects for your portfolio (not boring toy apps)",
+            "Become job-ready by understanding how JavaScript really works behind the scenes",
+            "How to think and work like a developer: problem-solving, researching, workflows"
+        ],
+        "description": "JavaScript is the most popular programming language in the world. It powers the entire modern web. It provides millions of high-paying jobs all over the world. That's why you want to learn JavaScript too. And you came to the right place! You will learn modern JavaScript from the very beginning, step-by-step. I will guide you through practical and fun code examples, important theory about how JavaScript works behind the scenes, and beautiful and complete projects. You will also learn how to think like a developer, how to plan application features, how to architect your code, how to debug code, and a lot of other real-world skills that you will need on your developer job. And unlike other courses, this one actually contains beginner, intermediate, advanced, and even expert topics, so you don't have to buy any other course in order to master JavaScript from the ground up!"
+    },
+    {
+        "_id": "6356bbcb89f764fbcbbbe2d8",
+        "category_id": "01",
+        "image_url": "https://img-b.udemycdn.com/course/240x135/705264_caa9_13.jpg",
+        "name": "Modern React with Redux",
+        "price": 84.99,
+        "author": {
+            "name": "Stephen Grider",
+            "last_updated": "Last updated 9/2022",
+            "author_img": "https://img-c.udemycdn.com/user/200_H/28948038_0077_2.jpg"
+        },
+        "rating": "4.6",
+        "short_desc": "Master React and Redux with React Router, Webpack, and Create-React-App. Includes Hooks!",
+        "course_overview": [
+            "Create dynamic web apps using the latest in web technology",
+            "Acquire the programming skills needed to obtain a software engineering job",
+            "Practice your skills with many large projects, exercises, and quizzes",
+            "Master the fundamentals concepts behind React and Redux"
+        ],
+        "description": "Congratulations!  You've found the most popular, most complete, and most up-to-date resource online for learning React and Redux! Thousands of other engineers have learned React and Redux, and you can too.  This course uses a time-tested, battle-proven method to make sure you understand exactly how React and Redux work, and will get you a new job working as a software engineer or help you build that app you've always been dreaming about. The difference between this course and all the others: you will understand the design patterns used by top companies to build massively popular web apps. React is the most popular Javascript library of the last five years, and the job market is still hotter than ever.  Companies large and small can't hire engineers who understand React and Redux fast enough, and salaries for engineers are at an all time high.  It's a great time to learn React!"
+    },
+    {
+        "_id": "6356f284ddc994dd6f41593b",
+        "category_id": "03",
+        "image_url": "https://img-b.udemycdn.com/course/240x135/1638522_fbdf.jpg",
+        "name": "Node.js: The Complete Guide to Build RESTful APIs (2018)",
+        "price": 119.99,
+        "author": {
+            "name": "Mosh Hamedani",
+            "last_updated": "Last updated 4/2018",
+            "author_img": "https://img-b.udemycdn.com/user/200_H/712832_5e8d_3.jpg"
+        },
+        "rating": "4.6",
+        "short_desc": "Learn to build fast, scalable and secure RESTful services with Node, Express and MongoDB, from setup to production",
+        "course_overview": [
+            "Build the backend for your web and mobile apps",
+            "Use modern JavaScript features (ES6, ES7)",
+            "Implement CRUD operations",
+            "Handle and log errors, the right way"
+        ],
+        "description": "Node.js, or Node, is a runtime environment for executing JavaScript code outside of a browser. It is ideal for building highly-scalable, data-intensive backend services (APIs) that power your client’s apps (web or mobile apps). Node is great for prototyping and agile development as well as building super fast and highly scalable apps; Companies like Uber and PayPal use Node in production to build applications because it requires fewer people and less code. Plus, Node has the largest ecosystem of open-source library, so you don’t have to build everything from scratch."
+    }
+]
