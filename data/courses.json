@@ -63,6 +63,69 @@
         "description": "I don't know about you,but regular classes bore me, and that is why on this Node.js course we make it fun to learn LOTS of cool things. This course is meant for total beginners in the NodeJs world. On the contrary on why other people teach, I do it to help people succeed in life and also because I love teaching. I feel successful when my students become successful. Our goal is to teach as many people as possible and at the same time having a blast. If you give me your time, I will make this learning experience something you will not forget. This course was created to change lives with all the knowledge included."
     },
     {
+        "_id": "635a20b5e2268e6bf5635a8e",
+        "category_id": "04",
+        "image_url": "https://img-b.udemycdn.com/course/240x135/836376_8b97_4.jpg",
+        "name": "Python for Absolute Beginners",
+        "price": 49.99,
+        "author": {
+            "name": "Green Chameleon Learning",
+            "last_updated": "Last updated 9/2022",
+            "author_img": "https://img-b.udemycdn.com/user/200_H/22313626_0663_2.jpg"
+        },
+        "rating": "4.5",
+        "short_desc": "Learn Python programming from scratch with hands-on exercises in this Python course!",
+        "course_overview": [
+            "A computer",
+            "Access to the internet",
+            "An interest in learning Python",
+            "High level of proficiency in English because of the technical language used in some of the lecture videos",
+            "Basic math knowledge: addition, subtraction, multiplication, division, knowledge of types of numbers such as integers and decimal numbers, exponentiation, etc."
+        ],
+        "description": "Learn Python, a programming language with a wide variety of well-paying jobs in many fields, including data science and web development. It is relatively easy to learn when compared to pretty much any other programming language since most of the time, using Python to do something will take less lines of code than with another programming language. In this course, you will be taught the fundamentals of Python through video lectures, quizzes, review exercises, and programming challenges."
+    },
+    {
+        "_id": "635a21bf2f8c276b0959b5b0",
+        "category_id": "05",
+        "image_url": "https://img-c.udemycdn.com/course/240x135/1643044_e281.jpg",
+        "name": "Graphic Design Masterclass - Learn GREAT Design",
+        "price": 84.99,
+        "author": {
+            "name": "Lindsay Marsh",
+            "last_updated": "Last updated 8/2022",
+            "author_img": "https://img-b.udemycdn.com/user/200_H/16146540_ef4c_15.jpg"
+        },
+        "rating": "4.7",
+        "short_desc": "The Ultimate Graphic Design Course Which Covers Photoshop, Illustrator, InDesign,Design Theory, Branding and Logo Design",
+        "course_overview": [
+            "Access to Adobe Photoshop, Illustrator & InDesign (Or Affinity Designer, Affinity Photo, Affinity Publisher as an Alternative). I will be using the Adobe Creative Cloud versions, but those with older version can still get a lot out of this class. Those wanting to take the course with Affinity products will find some tools and names do differ so Adobe is preferred.",
+            "If you use Adobe products, I highly suggest using versions CS6 or higher to have a more smooth experience with the course, but not a requirement.",
+            "Software not Included"
+        ],
+        "description": "We also learn the basics of Adobe Photoshop, illustrator and InDesign and do projects with real world applications. Every designer needs to know and master these programs and this course makes sure you know the essential tools to power through amazing projects. In Adobe Photoshop, we will review photo editing and manipulation techniques like how to cut objects out, duotones, changing color on objects, the liquify tool and we will create a compelling YouTube thumbnail with our newly learned photoshop skills as well as an entire book cover design project. In Adobe Illustrator, we will master the pen tool by hand tracing simple and complex shapes. We will explore the power of the shape builder tool and In the end of this section, we will design a complete logo design. There is an entirely new introduction and tools section that has been added where we work through a 7 page vector tracing worksheet and in the end create a complex vector illustration using our newly learned illustrator vector tools. Lastly, we will put together an event flyer to practice our layout skills, and even work through the branding process and create a logo, business card and letterhead for a business. We will will create a magazine layout in InDesign and learn the master pages tool to drastically speed up your design workflow when working with multiple paged layouts. We will talk about branding basics, what makes a good logo? How do you extend your logo or brand to other marketing materials? I designed this extensive course to be gentle enough for new comers to design but detailed enough for everyone to get a TON out of this course."
+    },
+    {
+        "_id": "635a232be0fff599d053ea33",
+        "category_id": "06",
+        "image_url": "https://img-c.udemycdn.com/course/240x135/4359576_b9e1_2.jpg",
+        "name": "Figma UI UX Design Essentials",
+        "price": 84.99,
+        "author": {
+            "name": "Daniel Walter Scott",
+            "last_updated": "Last updated 8/2022",
+            "author_img": "https://img-b.udemycdn.com/user/200_H/11614232_b0fc.jpg"
+        },
+        "rating": "4.7",
+        "short_desc": "Use Figma to get a job in UI Design, User Interface, User Experience design, UX Design & Web Design",
+        "course_overview": [
+            "You'll need a copy of Figma. A free plan is available on the Figma website.",
+            "No previous UX Design/UI Design experience is needed.",
+            "No previous Figma skills are needed.",
+            "No previous design skills or experience required."
+        ],
+        "description": "Hi there - my name is Dan Scott & welcome to Figma Essentials. Together - you and me - are going to learn everything you need to get started working as a UX Designer using Figma. We’ll use this UI UX design tool to create beautiful User Interfaces and engaging prototypes. Most importantly... we'll cover the client expectations of you as a new UX designer. You will take a project all the way through - collaborating with other team members and exporting the right files ready to hand off to your developer or software engineer. We’ll be focusing on the software Figma but I’ll make sure to explain the techniques & terms used in the UX and how real world projects are run. You will develop a great understanding of the industry and will be able to manage your own UX projects. I will be setting assignments through the course which will help develop your skills and enable you to create something special and unique for your own portfolio. Alright - it's time to upgrade yourself & go from Figma Zero to Figma Hero."
+    },
+    {
         "_id": "6356f11d4f281a4c51cd3a96",
         "category_id": "02",
         "image_url": "https://img-b.udemycdn.com/course/240x135/851712_fc61_6.jpg",
