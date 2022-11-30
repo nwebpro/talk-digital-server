@@ -2,7 +2,7 @@
 
 Live Link - [Talk Digital](https://talk-digital.vercel.app/).
 
-Talk Digital Server Side -> [News Portal Server](https://github.com/nwebpro/news-portal-server).
+[Client Side](https://github.com/nwebpro/talk-digital-client).
 
 # API Link 
 Courses API Link - https://talk-digital.vercel.app/courses
